@@ -1,5 +1,5 @@
-<h1 align="center"><b> Olá! Eu sou o Maciel Oliveira </b></h1>
-
+<h1 align="center"><b> Olá! Eu sou o Maciel Oliveira 👍🏿</b></h1>
+<h4 align="center"><b> Um aprendiz da Vida (Eterno Aprendiz)📙</b></h4>
 
 <table border="5"> 
 <tr>
@@ -57,14 +57,13 @@
 </div>
 
  <div style="display: inline_block"><br>
- ## Estudos Futuros<br>
+ #Estudos Futuros<br>
   <img align="center" alt="Max-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Max-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Max-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Max-Ang" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">  
   <img align="center" alt="Max-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"">  
-      <!--img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
-       <src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676"-->  
+       
 </div>
  
   ##
